@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imbhanubista" target="blank"><img src="https://img.shields.io/twitter/follow/imbhanubista?logo=twitter&style=for-the-badge" alt="imbhanubista" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript Library[REACT] and nodejs**
 
 - 📫 How to reach me **imbhanubista@gmail.com**
 
