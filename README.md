@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm BhanuBhakta Bista</h1>
 <h3 align="center">A boy who is chasing for his dream.</h3>
 
+<div>
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbhanubista&label=Profile%20views&color=0e75b6&style=flat" alt="imbhanubista" /> </p>
 
@@ -14,7 +15,8 @@
 </p>
 <p align="right">
 <a href="https://app.daily.dev/imbhanubista"><img src="https://api.daily.dev/devcards/2cf8159dab4f4b639f5aac701f9d1d06.png?r=un0" width="400" alt="BhanuBhakta Bista's Dev Card"/></a>
-</p>
+</p>  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
