@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm BhanuBhakta Bista</h1>
+<h3 align="center"> A boy chasing for his dream ... </h3>
+<br/>
 # 💫 About Me:
 🔭 I’m currently working on BOOKGARA<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Nodejs , Expressjs<br>💬 Ask me about Reactjs , Nextjs<br>⚡ How to reach on me  imbhanubista@gmail.com
 
