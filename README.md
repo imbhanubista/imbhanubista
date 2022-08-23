@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm BhanuBhakta Bista</h1>
 <h3 align="center"> A boy chasing for his dream ... </h3>
 <br/>
-<a href="https://app.daily.dev/imbhanubista"><img src="https://api.daily.dev/devcards/2cf8159dab4f4b639f5aac701f9d1d06.png?r=zqm" width="250" alt="BhanuBhakta Bista's Dev Card"/></a>
-<br/>
+<a href="https://app.daily.dev/imbhanubista"><img align="right" src="https://api.daily.dev/devcards/2cf8159dab4f4b639f5aac701f9d1d06.png?r=zqm" width="200" alt="BhanuBhakta Bista's Dev Card"/></a>
 <br/>
 
   # 💫 About Me:
