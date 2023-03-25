@@ -4,7 +4,8 @@
 <a href="https://app.daily.dev/imbhanubista"><img align="right" src="https://api.daily.dev/devcards/2cf8159dab4f4b639f5aac701f9d1d06.png?r=zqm" width="200" alt="BhanuBhakta Bista's Dev Card"/></a>
 <br/>
 
-  # 💫 About Me:<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
+  # 💫 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
 🔭 I’m currently working on KAHA<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Nodejs , Expressjs<br>💬 Ask me about Reactjs , Nextjs<br>⚡ How to reach on me  imbhanubista@gmail.com
 
 
