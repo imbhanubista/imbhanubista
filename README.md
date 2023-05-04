@@ -6,7 +6,7 @@
 
   # 💫 About Me : <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
-🔭 I’m currently working on Masovision Technology<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Nodejs , Expressjs<br>💬 Ask me about Reactjs , Nextjs<br>⚡ How to reach on me  imbhanubista@gmail.com
+🔭 I’m currently working on Masovision Technology<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning React Native<br>💬 Ask me about Reactjs , Nextjs<br>⚡ How to reach on me  imbhanubista@gmail.com
 
 
 ## 🌐 Socials:
